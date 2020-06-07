@@ -10,4 +10,6 @@ def count_empty_strings(array)
     element == "" # alternative solution: element.class == String && element.empty?
   end
   
-endcount_empty_strings
+end
+
+count_empty_strings
